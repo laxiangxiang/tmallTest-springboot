@@ -1,5 +1,5 @@
 server:
-  port: 8081
+  port: 9090
   #context
   context-path: /tmall_springboot #无效
   servlet:
