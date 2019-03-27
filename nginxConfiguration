@@ -11,3 +11,7 @@
         location ~\.(css|js|png|ttf|woff|woff2|eot|svg|map|jpg|gif)${
             root E:/tomcat-8.5.23/webapps;//tomcat的webapp目录
         }
+
+
+elasticsearch版本使用：elasticsearch-6.2.2
+elasticsearchweb客户端kibana版本：kibana-6.2.2-windows-x86_64
